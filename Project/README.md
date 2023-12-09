@@ -1,5 +1,9 @@
-# RNN-based Apple Stock Price Prediction
-
+# RNN-based Apple Stock Price Prediction CS-6375
+## Team Members:
+- Aravind Menon Kadekuzhi - axk210275
+- Sandeep Chikkapla Siddappa - sxc220127
+- Sanmati Marabad - sxm210368
+- Swathi Kote - sxk220505
 ## Introduction
 This project implements a Recurrent Neural Network (RNN) for predicting the stock prices of Apple Inc. It showcases the application of RNNs in time series forecasting, focusing on the financial market. The project uses Python, with key libraries including pandas, NumPy, and Matplotlib.
 
@@ -21,5 +25,15 @@ This project implements a Recurrent Neural Network (RNN) for predicting the stoc
 - 
 ### How to run
 python3 rnn.py
+
+
+### Links
+
+Dataset : https://github.com/sandeepsiddappa/CS-6375/tree/main/Project/Dataset
+
+Plots : https://github.com/sandeepsiddappa/CS-6375/tree/main/Project/Plots
+
+Log : https://github.com/sandeepsiddappa/CS-6375/blob/main/Project/training_log.csv
+
 
 

@@ -167,7 +167,7 @@ def evaluate_model(model, X, y, scaler):
 activation_funcs = ['tanh', 'sigmoid', 'relu']
 hidden_sizes = [4, 8]
 learning_rates = [0.0001, 0.005]
-epochs_choices = [30, 80]
+epochs_choices = [50, 100]
 
 performance_metrics = {}
 logs=[]

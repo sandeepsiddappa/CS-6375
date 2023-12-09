@@ -22,7 +22,7 @@ This project implements a Recurrent Neural Network (RNN) for predicting the stoc
 - NumPy
 - Matplotlib
 - scikit-learn
-- 
+
 ### How to run
 python3 rnn.py
 
